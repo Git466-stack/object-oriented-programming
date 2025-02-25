@@ -21,7 +21,7 @@ class Book {
     }
 }
 
-// Main.java
+
 public class BookDetails {
     public static void main(String[] args) {
         // Create a Book object

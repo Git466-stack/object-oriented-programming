@@ -26,7 +26,6 @@ class Item {
     }
 }
 
-// Main.java
 public class TrackInventry {
     public static void main(String[] args) {
         // Create an Item object

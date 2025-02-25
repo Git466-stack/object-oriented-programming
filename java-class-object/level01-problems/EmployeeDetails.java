@@ -21,7 +21,7 @@ class Employee {
     }
 }
 
-// Main.java
+
 public class EmployeeDetails {
     public static void main(String[] args) {
         // Create an Employee object

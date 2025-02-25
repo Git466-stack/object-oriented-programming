@@ -21,7 +21,7 @@ class MobilePhone {
     }
 }
 
-// Main.java
+
 public class MobilePhonedetails {
     public static void main(String[] args) {
         // Create a MobilePhone object

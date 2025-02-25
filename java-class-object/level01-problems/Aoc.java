@@ -27,7 +27,7 @@ class Circle {
     }
 }
 
-// Main.java
+
 public class Aoc {
     public static void main(String[] args) {
         // Create a Circle object
